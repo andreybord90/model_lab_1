@@ -1,0 +1,3 @@
+/home/andrey/Документы/МГТУ/Моделирование_2/lab_1/cmake-build-debug/CMakeFiles/lab_1.dir
+/home/andrey/Документы/МГТУ/Моделирование_2/lab_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/andrey/Документы/МГТУ/Моделирование_2/lab_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
