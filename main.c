@@ -82,7 +82,7 @@ float *getres( int n, struct data res) {
     arr1 = getarr_1(n, res);
     ptr[1] = arr1[0].value;
 
-    func();
+    func(); // При вызове функции не выделяется память под данные
 
 //    Values *arr2 = NULL;
 //    arr2 = getarr_2(n, res, arr1 , 3);
@@ -102,7 +102,6 @@ float *getres( int n, struct data res) {
 
 
 int main() {
-    printf("Hello, World!\n");
     float arg;
     int n;
     int number=0;
